@@ -11,7 +11,7 @@ This project uses data from the [Human Activity Recognition database](http://arc
 For more information please consult the README.txt in the [original data zipfile](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) or [their website](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 ## run_analysis.R
-The original data was split into a *train* and *test* dataset. The aim of the script is to merge these datasets, together with subject-identifiers and the type of daily activity for which the measurements were taken.
+The original data was split into a *train* and *test* dataset. The aim of the [script](https://github.com/tkappen/gettingcleaningdata/blob/master/run_analysis.R) is to merge these datasets, together with subject-identifiers and the type of daily activity for which the measurements were taken.
 
 ### The script sequence
 1. The script first sets the working directory from the clipboard
